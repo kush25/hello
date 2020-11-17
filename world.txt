@@ -5,8 +5,14 @@ Hello
 
 Added new lines. Great.
 
+<<<<<<< HEAD
 Github
 
 It is great.
 
 Add more Lines
+=======
+Add more Lines.
+
+Los Angeles,California, USA (Added in Remote Repository).
+>>>>>>> 7e9e2774238176f40ed88b665f960128d7019e4f
