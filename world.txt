@@ -8,6 +8,8 @@ Added new lines. Great.
 <<<<<<< HEAD
 Github
 
+Add merge file line locally.
+
 It is great.
 
 Add more Lines
