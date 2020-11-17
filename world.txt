@@ -16,3 +16,5 @@ Add more Lines.
 
 Los Angeles,California, USA (Added in Remote Repository).
 >>>>>>> 7e9e2774238176f40ed88b665f960128d7019e4f
+
+Merging File change remote
